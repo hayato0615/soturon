@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.13.2 (TeX Live 2021)  (format=lualatex 2022.12.12)  1 JAN 2023 13:07
+This is LuaHBTeX, Version 1.13.2 (TeX Live 2021)  (format=lualatex 2022.12.12)  4 JAN 2023 12:00
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -1061,58 +1061,58 @@ LaTeX Font Info:    Font shape `JY3/HaranoAjiMincho-Regular.otf(0)/b/n' will be
 <figures/zu11.png, id=21, 759.59308pt x 456.86769pt>
 File: figures/zu11.png Graphic file (type png)
 <use figures/zu11.png>
-Package luatex.def Info: figures/zu11.png  used on input line 41.
+Package luatex.def Info: figures/zu11.png  used on input line 40.
 (luatex.def)             Requested size: 119.50157pt x 71.87338pt.
 LaTeX Font Info:    Font shape `JT3/HaranoAjiMincho-Regular.otf(0)/m/n' will be
-(Font)              scaled to size 8.32242pt on input line 42.
+(Font)              scaled to size 8.32242pt on input line 41.
 LaTeX Font Info:    Font shape `T1/fnc/m/n' will be
-(Font)              scaled to size 7.06795pt on input line 44.
+(Font)              scaled to size 7.06795pt on input line 43.
 LaTeX Font Info:    Font shape `T1/fnc/m/n' will be
-(Font)              scaled to size 5.57996pt on input line 44.
+(Font)              scaled to size 5.57996pt on input line 43.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 44.
+(Font)              scaled to size 9.19998pt on input line 43.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 6.99199pt on input line 44.
+(Font)              scaled to size 6.99199pt on input line 43.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 44.
+(Font)              scaled to size 5.51999pt on input line 43.
 LaTeX Font Info:    Font shape `JY3/HaranoAjiMincho-Regular.otf(0)/m/n' will be
-(Font)              scaled to size 7.02782pt on input line 44.
+(Font)              scaled to size 7.02782pt on input line 43.
 LaTeX Font Info:    Font shape `JY3/HaranoAjiMincho-Regular.otf(0)/m/n' will be
-(Font)              scaled to size 5.54828pt on input line 44.
+(Font)              scaled to size 5.54828pt on input line 43.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 44.
+(Font)              scaled to size 9.19998pt on input line 43.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 6.99199pt on input line 44.
+(Font)              scaled to size 6.99199pt on input line 43.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 44.
+(Font)              scaled to size 5.51999pt on input line 43.
 <figures/zu12.png, id=22, 754.03384pt x 448.27615pt>
 File: figures/zu12.png Graphic file (type png)
 <use figures/zu12.png>
-Package luatex.def Info: figures/zu12.png  used on input line 47.
+Package luatex.def Info: figures/zu12.png  used on input line 46.
 (luatex.def)             Requested size: 119.50157pt x 71.04163pt.
 
-Overfull \hbox (1.97156pt too wide) in paragraph at lines 39--51
+Overfull \hbox (1.97156pt too wide) in paragraph at lines 38--50
 [][]$[]$[] []$[]$[] 
  []
 
 <figures/zu3.pdf, id=27, 586.71977pt x 159.32138pt>
 File: figures/zu3.pdf Graphic file (type pdf)
 <use figures/zu3.pdf>
-Package luatex.def Info: figures/zu3.pdf  used on input line 69.
+Package luatex.def Info: figures/zu3.pdf  used on input line 68.
 (luatex.def)             Requested size: 227.62204pt x 61.80933pt.
 <figures/zu4.pdf, id=29, 581.34868pt x 173.64421pt>
 File: figures/zu4.pdf Graphic file (type pdf)
 <use figures/zu4.pdf>
-Package luatex.def Info: figures/zu4.pdf  used on input line 77.
+Package luatex.def Info: figures/zu4.pdf  used on input line 76.
 (luatex.def)             Requested size: 227.62204pt x 67.98857pt.
-LaTeX Font Info:    Trying loading font information for T1+lmtt on input line 89.
+LaTeX Font Info:    Trying loading font information for T1+lmtt on input line 88.
 (/usr/local/texlive/2021/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `JT3/HaranoAjiGothic-Regular.otf(0)/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 89.
+(Font)              scaled to size 9.24713pt on input line 88.
 LaTeX Font Info:    Font shape `JY3/HaranoAjiGothic-Regular.otf(0)/m/n' will be
-(Font)              scaled to size 9.24713pt on input line 89.
+(Font)              scaled to size 9.24713pt on input line 88.
  [1{/home/cloudlatex/.texlive2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
@@ -1123,15 +1123,15 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 
 Here is how much of LuaTeX's memory you used:
  18052 strings out of 477800
- 382234,794899 words of node,token memory allocated
- 20083 words of node memory still in use:
-   10 hlist, 2 vlist, 5 rule, 2 glue, 334 kern, 1 glyph, 7825 attribute, 306 glue_spec, 406 attribute_list, 1 write, 43 user_defined, 1 pdf_action nodes
-   avail lists: 1:44,2:114803,3:927,4:608,5:55,6:94,7:10737,8:77,9:5013,10:24
+ 382236,794899 words of node,token memory allocated
+ 20068 words of node memory still in use:
+   10 hlist, 2 vlist, 5 rule, 2 glue, 334 kern, 1 glyph, 7825 attribute, 303 glue_spec, 406 attribute_list, 1 write, 43 user_defined, 1 pdf_action nodes
+   avail lists: 1:45,2:114617,3:920,4:605,5:55,6:91,7:10725,8:77,9:5004,10:24
  37742 multiletter control sequences out of 65536+600000
  144 fonts using 113477847 bytes
  115i,8n,118p,1761b,1031s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/texlive/2021/texmf-dist/fonts/opentype/public/haranoaji/HaranoAjiMincho-Bold.otf>{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2021/texmf-dist/fonts/opentype/public/haranoaji/HaranoAjiMincho-Regular.otf></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/ncntrsbk/uncb8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/ncntrsbk/uncr8a.pfb>
-Output written on main.pdf (1 page, 4180403 bytes).
+Output written on main.pdf (1 page, 4180398 bytes).
 
 PDF statistics: 219 PDF objects out of 1000 (max. 8388607)
  153 compressed objects within 2 object streams
