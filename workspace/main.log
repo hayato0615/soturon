@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.13.2 (TeX Live 2021)  (format=lualatex 2022.12.12)  4 JAN 2023 19:37
+This is LuaHBTeX, Version 1.13.2 (TeX Live 2021)  (format=lualatex 2022.12.12)  4 JAN 2023 19:42
  restricted system commands enabled.
 **main.tex
 (./main.tex
@@ -1123,15 +1123,15 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 
 Here is how much of LuaTeX's memory you used:
  18052 strings out of 477800
- 382234,794899 words of node,token memory allocated
+ 382236,794899 words of node,token memory allocated
  20068 words of node memory still in use:
    10 hlist, 2 vlist, 5 rule, 2 glue, 334 kern, 1 glyph, 7825 attribute, 303 glue_spec, 406 attribute_list, 1 write, 43 user_defined, 1 pdf_action nodes
-   avail lists: 1:46,2:115163,3:914,4:605,5:55,6:88,7:10779,8:77,9:5028,10:24
+   avail lists: 1:44,2:115205,3:911,4:605,5:55,6:88,7:10785,8:77,9:5031,10:24
  37742 multiletter control sequences out of 65536+600000
  144 fonts using 113477847 bytes
  115i,8n,118p,1761b,1031s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}</usr/local/texlive/2021/texmf-dist/fonts/opentype/public/haranoaji/HaranoAjiMincho-Bold.otf>{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2021/texmf-dist/fonts/opentype/public/haranoaji/HaranoAjiMincho-Regular.otf></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmtt10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/ncntrsbk/uncb8a.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/urw/ncntrsbk/uncr8a.pfb>
-Output written on main.pdf (1 page, 4179671 bytes).
+Output written on main.pdf (1 page, 4179682 bytes).
 
 PDF statistics: 219 PDF objects out of 1000 (max. 8388607)
  153 compressed objects within 2 object streams
